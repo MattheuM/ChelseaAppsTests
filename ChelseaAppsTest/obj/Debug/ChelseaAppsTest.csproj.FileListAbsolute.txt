@@ -1,0 +1,6 @@
+i:\users\mattheu\documents\visual studio 2015\Projects\ChelseaAppsTest\ChelseaAppsTest\bin\ChelseaAppsTest.dll.config
+i:\users\mattheu\documents\visual studio 2015\Projects\ChelseaAppsTest\ChelseaAppsTest\bin\ChelseaAppsTest.dll
+i:\users\mattheu\documents\visual studio 2015\Projects\ChelseaAppsTest\ChelseaAppsTest\bin\ChelseaAppsTest.pdb
+i:\users\mattheu\documents\visual studio 2015\Projects\ChelseaAppsTest\ChelseaAppsTest\obj\Debug\ChelseaAppsTest.csprojResolveAssemblyReference.cache
+i:\users\mattheu\documents\visual studio 2015\Projects\ChelseaAppsTest\ChelseaAppsTest\obj\Debug\ChelseaAppsTest.dll
+i:\users\mattheu\documents\visual studio 2015\Projects\ChelseaAppsTest\ChelseaAppsTest\obj\Debug\ChelseaAppsTest.pdb
